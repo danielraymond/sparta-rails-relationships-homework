@@ -1,24 +1,17 @@
-# README
+# Relationships Homework
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Brief
 
-Things you may want to cover:
+Create a web app with 2 resources that are linked by a one to many relationship. Have a drop down menu for the genre type and have all crud methods.
 
-* Ruby version
+### What went well
 
-* System dependencies
+I managed to set up all the forms easily and the rail commands worked well.
 
-* Configuration
+### Difficulties
 
-* Database creation
+I had a difficulty creating a new movie as I didn't set the genre_id when I made the controller so I had to set that in the private params manually which took me a while to figure out.
 
-* Database initialization
+### What I delivered
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I delivered on all the details in the brief.
